@@ -1,0 +1,11 @@
+To Do App
+
+What Can it Do?
+1. Allows User to input tasks within his/her/their to do list
+2. Allows user to mark completed tasks off of his/her/their to do list
+3. Presents Numbered to do list to user when requested
+4. Allows user to indicate which items are most important on his/her/their to do list
+5. Allows user to add due dates to his/her/their list
+6. Tells user how much time exists between now and the due date
+7. Provides Users with a Main Menu where they can choose which action in which they wish to engage (adding items,
+marking complete items, prioritizing to do items)
