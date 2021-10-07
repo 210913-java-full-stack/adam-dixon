@@ -2,11 +2,11 @@
 ## Description
 ### Your next project will build upon the concepts from project 0, adding the following topics:
 
-  HTML
-  CSS
-  JavaScript
-  Hibernate
-  DevOps
+  - HTML
+  - CSS
+  - JavaScript
+  - Hibernate
+  - DevOps
 
 You will be building a client/server application with a frontend and backend. Your backend server will expose an API, and your front end client will connect to that API to send and receive JSON data. The backend will be written in Java, and the frontend will be written in HTML/CSS/JavaScript.
 
