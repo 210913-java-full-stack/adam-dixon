@@ -1,19 +1,20 @@
-Project 1
-Description
-Your next project will build upon the concepts from project 0, adding the following topics:
+# Project 1
+## Description
+### Your next project will build upon the concepts from project 0, adding the following topics:
 
-HTML
-CSS
-JavaScript
-Hibernate
-DevOps
+  HTML
+  CSS
+  JavaScript
+  Hibernate
+  DevOps
+
 You will be building a client/server application with a frontend and backend. Your backend server will expose an API, and your front end client will connect to that API to send and receive JSON data. The backend will be written in Java, and the frontend will be written in HTML/CSS/JavaScript.
 
 You will be expected to complete the minimum viable product by the deadline and give a brief presentation demonstrating your project and answering questions from the QC team.
 
 This project will be done in teams of 2-3 members that will be assigned when we begin.
 
-Minimum Requirements
+## Minimum Requirements
   1. Proper use of OOP principles
   2. Output is presented to user on a web page, and input is accepted from a web form
   3. Webapp(backend) and UI(frontend) are served from AWS and are publically available
@@ -23,13 +24,13 @@ Minimum Requirements
   7. Documentation (all classes and methods have adequate Javadoc comments)
   8. All Exceptions are caught and logged to a file
   9. 80+% Unit Test Coverage for service-layer classes/methods
-Bonus Features
+## Bonus Features
   DevOps CI/CD pipeline to build and deploy project
   Advanced UI Framework (Angular or React)
-Airline Ticketing Kiosk App
-These are user stories to describe the airline ticketing kiosk app. If you are not building this app for your project you will need to discuss with your trainer to establish proper user stories.
+## Airline Ticketing Kiosk App
+### These are user stories to describe the airline ticketing kiosk app. If you are not building this app for your project you will need to discuss with your trainer to establish proper user stories.
 
-Minimum Viable Product
+## Minimum Viable Product
   As a user, I can see all available flights from a city to a city.
   As a user, I can purchase one or more tickets on a flight.
   As a user, I can check in for my flight.
@@ -37,11 +38,11 @@ Minimum Viable Product
   As an administrator, I can schedule a new flight.
   As an administrator, I can cancel a flight.
   As an administrator, I can see all users with tickets for a flight.
-Bonus Stories
+## Bonus Stories
   As an administrator, I can cancel a ticket on any flight.
   As an pilot, I can initiate takeoff of a flight. (No more new tickets or cancellations)
-Tech Stack
-You should be employing the following technologies in your project.
+## Tech Stack
+### You should be employing the following technologies in your project.
 
 Java 8
 JavaScript
