@@ -14,15 +14,15 @@ You will be expected to complete the minimum viable product by the deadline and 
 This project will be done in teams of 2-3 members that will be assigned when we begin.
 
 Minimum Requirements
-  Proper use of OOP principles
-  Output is presented to user on a web page, and input is accepted from a web form
-  Webapp(backend) and UI(frontend) are served from AWS and are publically available
-  CRUD operations are supported for one or more domain objects via the web application's API endpoints and invoked from the frontend
-  Communication is done with JSON in HTTP request and response bodies.
-  Abstract all JDBC away with Hibernate
-  Documentation (all classes and methods have adequate Javadoc comments)
-  All Exceptions are caught and logged to a file
-  80+% Unit Test Coverage for service-layer classes/methods
+  1. Proper use of OOP principles
+  2. Output is presented to user on a web page, and input is accepted from a web form
+  3. Webapp(backend) and UI(frontend) are served from AWS and are publically available
+  4. CRUD operations are supported for one or more domain objects via the web application's API endpoints and invoked from the frontend
+  5. Communication is done with JSON in HTTP request and response bodies.
+  6. Abstract all JDBC away with Hibernate
+  7. Documentation (all classes and methods have adequate Javadoc comments)
+  8. All Exceptions are caught and logged to a file
+  9. 80+% Unit Test Coverage for service-layer classes/methods
 Bonus Features
   DevOps CI/CD pipeline to build and deploy project
   Advanced UI Framework (Angular or React)
