@@ -25,22 +25,22 @@ This project will be done in teams of 2-3 members that will be assigned when we 
   8. All Exceptions are caught and logged to a file
   9. 80+% Unit Test Coverage for service-layer classes/methods
 ## Bonus Features
-  DevOps CI/CD pipeline to build and deploy project
-  Advanced UI Framework (Angular or React)
+  1. DevOps CI/CD pipeline to build and deploy project
+  2. Advanced UI Framework (Angular or React)
 ## Airline Ticketing Kiosk App
-### These are user stories to describe the airline ticketing kiosk app. If you are not building this app for your project you will need to discuss with your trainer to establish proper user stories.
+These are user stories to describe the airline ticketing kiosk app. If you are not building this app for your project you will need to discuss with your trainer to establish proper user stories.
 
-## Minimum Viable Product
-  As a user, I can see all available flights from a city to a city.
-  As a user, I can purchase one or more tickets on a flight.
-  As a user, I can check in for my flight.
-  As a user, I can cancel my ticket.
-  As an administrator, I can schedule a new flight.
-  As an administrator, I can cancel a flight.
-  As an administrator, I can see all users with tickets for a flight.
+### Minimum Viable Product
+  * As a user, I can see all available flights from a city to a city.
+  * As a user, I can purchase one or more tickets on a flight.
+  * As a user, I can check in for my flight.
+  * As a user, I can cancel my ticket.
+  * As an administrator, I can schedule a new flight.
+  * As an administrator, I can cancel a flight.
+  * As an administrator, I can see all users with tickets for a flight.
 ## Bonus Stories
-  As an administrator, I can cancel a ticket on any flight.
-  As an pilot, I can initiate takeoff of a flight. (No more new tickets or cancellations)
+  1. As an administrator, I can cancel a ticket on any flight.
+  2. As an pilot, I can initiate takeoff of a flight. (No more new tickets or cancellations)
 ## Tech Stack
 ### You should be employing the following technologies in your project.
 
